@@ -1,84 +1,139 @@
-[{
-    "Value": "32c984c9410f44c4448be0e9********488d0d",
-    "ASMSignature": true,
+[
+  {
     "Key": "TARGET",
-    "Notes": [],
-    "PointerPath": [0, 144]
-}, {
+    "Value": "41bc000000e041bd01000000493bc47555488d0d",
+    "ASMSignature": true,
+    "PointerPath": [
+      0,
+      144
+    ]
+  },
+  {
+    "Key": "CHATLOG",
     "Value": "e8********85c0740e488b0d********33D2E8********488b0d",
     "ASMSignature": true,
-    "Key": "CHATLOG",
-    "Notes": [],
-    "PointerPath": [0, 0, 48, 908]
-}, {
-    "Value": "488b03488bcbff90a0000000888391000000488d0d",
-    "ASMSignature": true,
+    "PointerPath": [
+      0,
+      0,
+      48,
+      908
+    ]
+  },
+  {
     "Key": "CHARMAP",
-    "Notes": [],
-    "PointerPath": [0, 16]
-}, {
+    "Value": "488b420848c1e8033da701000077248bc0488d0d",
+    "ASMSignature": true,
+    "PointerPath": [
+      0,
+      0
+    ]
+  },
+  {
+    "Key": "PARTYMAP",
     "Value": "0fb7430866894772488b7c24308bd6488d0d",
     "ASMSignature": true,
-    "Key": "PARTYMAP",
-    "Notes": [],
-    "PointerPath": [0, 16]
-}, {
+    "PointerPath": [
+      0,
+      16
+    ]
+  },
+  {
+    "Key": "MAPINFO",
     "Value": "48897C243833FF89B9C0000000C681CD000000008B0D",
     "ASMSignature": true,
-    "Key": "MAPINFO",
-    "Notes": [],
-    "PointerPath": [0, 0]
-}, {
+    "PointerPath": [
+      0,
+      0
+    ]
+  },
+  {
+    "Key": "PLAYERINFO",
     "Value": "83f9ff7412448b048e8bd3488d0d",
     "ASMSignature": true,
-    "Key": "PLAYERINFO",
-    "Notes": [],
-    "PointerPath": [0, 0]
-}, {
+    "PointerPath": [
+      0,
+      0
+    ]
+  },
+  {
     "Key": "ENMITYMAP",
     "Value": "83f9ff7412448b048e8bd3488d0d",
     "ASMSignature": true,
-    "Notes": [],
-    "PointerPath": [0, -4648]
-}, {
+    "PointerPath": [
+      0,
+      -4656
+    ]
+  },
+  {
     "Key": "ENMITY_COUNT",
     "Value": "83f9ff7412448b048e8bd3488d0d",
     "ASMSignature": true,
-    "Notes": [],
-    "PointerPath": [0, -2344]
-}, {
+    "PointerPath": [
+      0,
+      -2352
+    ]
+  },
+  {
     "Key": "AGROMAP",
     "Value": "83f9ff7412448b048e8bd3488d0d",
     "ASMSignature": true,
-    "Notes": [],
-    "PointerPath": [0, -2336]
-}, {
+    "PointerPath": [
+      0,
+      -2344
+    ]
+  },
+  {
     "Key": "AGRO_COUNT",
     "Value": "83f9ff7412448b048e8bd3488d0d",
     "ASMSignature": true,
-    "Notes": [],
-    "PointerPath": [0, -32]
-}, {
+    "PointerPath": [
+      0,
+      -40
+    ]
+  },
+  {
     "Key": "ZONEINFO",
     "Value": "4056415641578b9108be0000488bf1448b35",
     "ASMSignature": true,
-    "Notes": [],
-    "PointerPath": [0, 0]
-}, {
+    "PointerPath": [
+      0,
+      0
+    ]
+  },
+  {
     "Key": "HOTBAR",
     "Value": "F783843E2C000000",
-    "Notes": [],
-    "PointerPath": [0, 56, 48, 40, 32, 0, 0]
-}, {
+    "ASMSignature": false,
+    "PointerPath": [
+      0,
+      56,
+      48,
+      40,
+      32,
+      0,
+      0
+    ]
+  },
+  {
     "Key": "RECAST",
     "Value": "F783843E2C000000",
     "ASMSignature": false,
-    "Notes": [],
-    "PointerPath": [0, 56, 24, 48, 32, 60]
-}, {
+    "PointerPath": [
+      0,
+      56,
+      24,
+      48,
+      32,
+      60
+    ]
+  },
+  {
     "Key": "INVENTORY",
     "Value": "48895C2408488974241048897C2418488B3D",
     "ASMSignature": true,
-    "Notes": [],
-    "PointerPath": [0, 0]
-}]
+    "PointerPath": [
+      0,
+      0
+    ]
+  }
+]
